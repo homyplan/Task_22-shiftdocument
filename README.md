@@ -5,3 +5,6 @@
 3. Initial position of the canvas should be center of the document
 
 estimated time: 3h
+
+![Zoomed drawing](zoomed_drawing.PNG)
+![Start drawing](start_drawing.PNG)
