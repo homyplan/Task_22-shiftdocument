@@ -6,5 +6,5 @@
 
 estimated time: 3h
 
-![Zoomed drawing](zoomed_drawing.PNG)
-![Start drawing](start_drawing.PNG)
+![Zoomed drawing](zoomed_drawing.JPG)
+![Start drawing](start_drawing.JPG)
