@@ -9,4 +9,4 @@ estimated time: 3h
 When user will open the app document should be panned to the middle, not having (0,0) in the corner.
 
 ![Zoomed drawing](zoomed_drawing.JPG)
-![Start drawing](start_drawing.JPG)
+![Start drawing](Start_drawing.JPG)
